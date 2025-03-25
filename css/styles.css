@@ -32,7 +32,8 @@ nav{
     justify-content: space-between;/*distribuye los elementos a los extremos*/
     align-items: center;/*alinea verticalmente los elementos*/
     position: fixed;
-    background: black;
+    background: rgba(0, 0, 0, 0.041);
+    backdrop-filter: blur(8px); 
     z-index: 1000;
 }
 
