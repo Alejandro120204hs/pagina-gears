@@ -461,7 +461,7 @@ font-size: 20px;/*tamaño de letra*/
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
 }
-#armas .tarjeta:hover .info {
+#armas .tarjeta1:hover .info {
 opacity: 1;
 }
 #armas h2{
