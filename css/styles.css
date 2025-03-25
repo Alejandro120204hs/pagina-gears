@@ -27,7 +27,7 @@ header{
 nav{
     display: flex;/*organiza los elementos de la barra superior en fila*/
     padding-top: 8px;/*separar la barra de navegacion del borde superior*/
-    width: 90%;/*para que la barra de navegacion ocupe el 90% del ancho de la pantalla*/
+    width: 100%;/*para que la barra de navegacion ocupe el 90% del ancho de la pantalla*/
     margin: 0 auto;/*centra la barra de navegacion*/
     justify-content: space-between;/*distribuye los elementos a los extremos*/
     align-items: center;/*alinea verticalmente los elementos*/
