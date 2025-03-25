@@ -32,7 +32,7 @@ nav{
     justify-content: space-between;/*distribuye los elementos a los extremos*/
     align-items: center;/*alinea verticalmente los elementos*/
     position: fixed;
-    background: #000d14;
+    background: black;
     z-index: 1000;
 }
 
