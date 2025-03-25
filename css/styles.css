@@ -32,6 +32,8 @@ nav{
     justify-content: space-between;/*distribuye los elementos a los extremos*/
     align-items: center;/*alinea verticalmente los elementos*/
     position: fixed;
+    background: #000d14;
+    z-index: 1000;
 }
 
 /*ESTILOS PARA LOS ENCALES DE NAVEGACION*/
